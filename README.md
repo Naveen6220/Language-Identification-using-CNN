@@ -1,5 +1,3 @@
-# language-identification
-
 # Multilingual Text Identification with CNN
 
 This project utilizes Convolutional Neural Networks (CNN) for the identification of text written in four different languages. The model is trained to classify and distinguish between Tamil, Hindi, Telugu, and kannada languages with high accuracy.
