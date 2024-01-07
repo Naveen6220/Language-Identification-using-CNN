@@ -34,13 +34,5 @@ This project leverages Convolutional Neural Networks (CNN) to identify four diff
 - Continuous Integration ensures that the codebase is always in a deployable state.
 - Deployment to GCP is triggered automatically upon successful CI tests.
 
-## Contributors
-- List contributors and their roles in the project.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Acknowledge any external libraries, datasets, or resources used in the project.
-
-Feel free to modify this README file according to your project's specifics.
